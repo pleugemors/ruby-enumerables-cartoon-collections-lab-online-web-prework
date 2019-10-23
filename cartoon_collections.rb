@@ -4,7 +4,8 @@ def roll_call_dwarves(array_names)# code an argument here
   array_names.each_with_index{|i, index| puts "#{index+1}.#{array_names[index]}"}
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet(planateer_calls)# code an argument here
+  
   # Your code here
 end
 
