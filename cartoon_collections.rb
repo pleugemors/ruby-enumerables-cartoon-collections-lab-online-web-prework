@@ -6,6 +6,7 @@ end
 
 def summon_captain_planet(planateer_calls)# code an argument here
   planateer_calls.map{|names| names.capitalize +"!"}
+  puts planateer_calls
   # Your code here
 end
 
